@@ -36,9 +36,12 @@ The platform brings announcements, meetings, documents, tasks, faculty informati
 - Explored embedding generation and department-scoped semantic retrieval.
 - Working towards relevance ranking and source-cited answers in the conversational assistant.
 
-**Stack:** Next.js · Tailwind CSS · Supabase · PostgreSQL · Google Gemini · pgvector · Vercel
+**Stack:** Next.js · Tailwind CSS · Supabase · PostgreSQL · Google Gemini · pgvector
 
-*Work in progress.*
+[View repository](https://github.com/tejas764/workhub)
+
+*Team project · Repository maintained under @tejas764.*
+
 
 ### [Flipkart Product Analytics](https://github.com/Vvedika05/Flipkart-product-analytics-excel)
 **E-commerce data analysis | Excel**
@@ -84,7 +87,7 @@ An empirical study of workplace absenteeism using the UCI Absenteeism at Work da
 
 ## Tools I enjoy working with
 
-**Languages:** Python, Java, C, SQL
+**Languages:** Python, JavaScript, SQL
 
 **Data & ML:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 
@@ -108,8 +111,8 @@ An empirical study of workplace absenteeism using the UCI Absenteeism at Work da
 Have an interesting project, an idea you'd like to discuss, or just want to exchange thoughts about technology? Feel free to reach out. I'm always open to meeting people, learning together, and collaborating on interesting work.
 
 - **GitHub:** [@Vvedika05](https://github.com/Vvedika05)
-- **LinkedIn:** [Add your LinkedIn URL]
-- **Email:** [Add your preferred contact email]
+- **LinkedIn:** [@Vvedika Jain M](https://www.linkedin.com/in/vvedika-jain-330b99283/)
+- **Email:** [vvedika258@gmail.com]
 
 ---
 
